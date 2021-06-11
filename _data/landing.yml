@@ -36,3 +36,9 @@
   name: Links
   tpl: links.html
   css: contact
+  
+- id: lds
+  i18n: nav.lds
+  name: LDS
+  tpl: lds.html
+  css: testimonials navy-section
