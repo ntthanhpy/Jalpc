@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "merry-christmas"
+title:  "Merry christmas"
 date:   2019-12-23
-desc: "merry christmas 2019"
+desc: "Merry christmas 2019"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy,kiiim,misc,life"
-categories: [HTML]
+categories: [Life]
 tags: [Jalpc,Jekyll,kiiim,misc,life]
 icon: icon-html
 ---
