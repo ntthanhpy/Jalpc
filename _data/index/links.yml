@@ -1,9 +1,9 @@
 # links section data
-- last_name: Name 1 222
+- last_name: NLP
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: Thang Luong
+  website: https://nlp.stanford.edu/~lmthang/
+  email: thangluong@google.com
 
 - last_name: Donate
   first_name: Jalpc
