@@ -1,15 +1,15 @@
 # links section data
 - last_name: Church of jesus christ
-  first_name:
+  first_name: Link
   desc: LDS
   website: https://www.churchofjesuschrist.org/?lang=eng
-  email: ceo@google.com
+  email:
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Family
+  first_name: Search
+  desc: Family search
+  website: https://familysearch.org/
+  email:
 
 - last_name: LN
   first_name: FN
