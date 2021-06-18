@@ -16,15 +16,15 @@
   present: true
 
 - name:
-    detail: Company B
+    detail: FPT Information System
    # i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I worked at FPT Information System in 18 June 2019.
    # i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jun. 2019
     #i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Developer Java
    # i18n: company_b_job
   icon: fa-plus-square
