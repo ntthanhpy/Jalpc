@@ -28,3 +28,17 @@
     detail: Developer Java
    # i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: GCS (HCC) (HVN)
+   # i18n: company_b
+  desc:
+    detail: I worked at GCS/HCC/HVN in 18 March 2020.
+   # i18n: company_b_desc
+  date:
+    detail: Mar. 2020
+    #i18n: company_b_date
+  job:
+    detail: Consultant
+   # i18n: company_b_job
+  icon: fa-plus-square
