@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: GitHub  # Be used at blog posts' author.
   first_name: Hub  # Be used at index page about me section.
   last_name: Git  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar1.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: ntthanhpy  # Leave blank if you don't have now
   linkedin_id: thanh-nguyen-tan-140 # Leave blank if you don't have now
   facebook_username: tznguyez  # Leave blank if you don't have now
@@ -28,11 +28,11 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: I'm a LDS-er, Kiim Nguyen, I'm developer in IT. I'm hoping grow in machine learning fields. I'm improving in English.   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: kiim
+  name: Kiim Nguyen
 
 # analytics
 ## google analytics
