@@ -8,5 +8,32 @@
 - src: landing/header_two.jpg
   title: second banner image
 
-- src: landing/avatar.jpg
-  title: third banner image
+- src: landing/header.jpg
+  title: header banner image
+
+- src: landing/header8.jpg
+  title: header8 banner image
+
+- src: landing/header9.jpg
+  title: header9 banner image
+
+- src: landing/header_eight.jpg
+  title: header_eight banner image
+
+- src: landing/header_five.jpg
+  title: header_five banner image
+
+- src: landing/header_nine.jpg
+  title: header_nine banner image
+
+- src: landing/header_one.jpg
+  title: header_one banner image
+
+- src: landing/header_seven.jpg
+  title: header_seven banner image
+
+- src: landing/header_three.jpg
+  title: header_three banner image
+
+- src: landing/header_two.jpg
+  title: header_two banner image
