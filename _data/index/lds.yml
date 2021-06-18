@@ -4,15 +4,3 @@
   desc: LDS
   website: https://www.churchofjesuschrist.org/?lang=eng
   email:
-
-- last_name: Family
-  first_name: Search
-  desc: Family search
-  website: https://familysearch.org/
-  email:
-
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
