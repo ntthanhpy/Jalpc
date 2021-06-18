@@ -15,6 +15,7 @@ $(document).ready(function() {
     $('#i18_career').i18n();
     $('#i18_blog').i18n();
     $('#i18_link').i18n();
+    $('#i18_lds').i18n();
   };
 
   $("[id^=set_lang]").each(function() {
