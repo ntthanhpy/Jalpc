@@ -20,8 +20,8 @@
 
 - name: Life
   href: /life/
-  
-  - name: Lds
+
+- name: Lds
   href: /lds/
 
 # Don't display donation page: change donation to off at file '_config.yml'
