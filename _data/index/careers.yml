@@ -1,5 +1,6 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
 - name:
     detail: HPT Corp. Vietnam
     #i18n: hpt_vietnam
@@ -15,7 +16,7 @@
   icon: fa-plus-square
   present: true
   
-  - name:
+- name:
     detail: BIN group
     #i18n: bin_group
   desc:
@@ -43,7 +44,7 @@
    # i18n: company_b_job
   icon: fa-plus-square
   
-  - name:
+- name:
     detail: FPT Information System
    # i18n: company_b
   desc:
