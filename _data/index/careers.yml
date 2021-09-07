@@ -1,21 +1,49 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Smart World Technology
-    #i18n: smart_world_technology
+    detail: HPT Corp. Vietnam
+    #i18n: hpt_vietnam
   desc:
-    detail: I worked at Smart World Technology in 09 May 2018.
-    #i18n: smart_world_technology_desc
+    detail: I worked at HPT from Aug. 2021.
+    #i18n: hpt_vietnam_desc
   date:
-    detail: May. 2018
-    #i18n: smart_world_technology_date
+    detail: Aug. 2021
+    #i18n: hpt_vietnam_date
   job:
-    detail: Developer Java
-    #i18n: smart_world_technology_job
+    detail: Software Solutions Engineer
+    #i18n: hpt_vietnam_job
   icon: fa-plus-square
   present: true
-
+  
+  - name:
+    detail: BIN group
+    #i18n: bin_group
+  desc:
+    detail: I worked at BIN from May 2021 to June 2021.
+    #i18n: bin_group_desc
+  date:
+    detail: May. 2021
+    #i18n: bin_group_date
+  job:
+    detail: PHP Java
+    #i18n: bin_group_job
+  icon: fa-plus-square
+  
 - name:
+    detail: GCS (HCC) (HVN)
+   # i18n: company_b
+  desc:
+    detail: I worked at GCS/HCC/HVN in 18 March 2020.
+   # i18n: company_b_desc
+  date:
+    detail: Mar. 2020
+    #i18n: company_b_date
+  job:
+    detail: Consultant
+   # i18n: company_b_job
+  icon: fa-plus-square
+  
+  - name:
     detail: FPT Information System
    # i18n: company_b
   desc:
@@ -30,15 +58,15 @@
   icon: fa-plus-square
 
 - name:
-    detail: GCS (HCC) (HVN)
-   # i18n: company_b
+    detail: Smart World Technology
+    #i18n: smart_world_technology
   desc:
-    detail: I worked at GCS/HCC/HVN in 18 March 2020.
-   # i18n: company_b_desc
+    detail: I worked at Smart World Technology in 09 May 2018.
+    #i18n: smart_world_technology_desc
   date:
-    detail: Mar. 2020
-    #i18n: company_b_date
+    detail: May. 2018
+    #i18n: smart_world_technology_date
   job:
-    detail: Consultant
-   # i18n: company_b_job
+    detail: Developer Java
+    #i18n: smart_world_technology_job
   icon: fa-plus-square
